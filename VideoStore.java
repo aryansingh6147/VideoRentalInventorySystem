@@ -1,4 +1,4 @@
-
+ 
 public class VideoStore {
 
 	Video[] store;
