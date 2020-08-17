@@ -36,7 +36,7 @@ public class VideoLaucher {
 					break;
 				case 5:
 					videoStore.listInventory();
-					break;
+					break; 
 				case 6:
 					System.err.println("Enter ...!! Thanks for using the application");
 					System.exit(1);
